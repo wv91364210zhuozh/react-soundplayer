@@ -35,7 +35,7 @@
   "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "classnames": "^2.2.5",
+    "classnames": "^2.3.0",
     "hoist-non-react-statics": "^2.3.1",
     "object-assign": "^4.1.1",
     "prop-types": "^15.6.0",
